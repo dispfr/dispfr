@@ -1,8 +1,8 @@
 
-hi im disp 
+hi im disp           
 14, highscool freshman
 
-all my repositories preceeding ~2024 are deleted
+all my repositories preceeding ~2024 are deleted        
 i was coding, just not very well
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dispfr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
