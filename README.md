@@ -1,6 +1,5 @@
 
-hi im disp  
-sometimes i make stuff  
+hi im disp 
 14, highscool freshman
 
 all my repositories preceeding ~2024 are deleted
