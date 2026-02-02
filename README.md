@@ -1,6 +1,6 @@
 
 hi im disp           
-14, highscool freshman
+14, highscool sophomore
 
 all my repositories preceeding ~2024 are deleted        
 i was coding, just not very well
